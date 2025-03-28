@@ -1,6 +1,7 @@
 # Histograms Shiny App
 
 library(shiny)
+library(ggplot2)
 
 ui <- fluidPage(
   # App title
